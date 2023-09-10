@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshit-Verma6655
-- 👀 I’m interested in ...Frontend or Full Stack Developer
+- 👀 I’m interested in ...learning, working..
 - 🌱 I’m currently learning ...DSA JAVA, React, NodeJS, sql and more Frameworks
 - 💞️ I’m looking to collaborate on ...Frontend or Full Stack Developer
 - 📫 How to reach me ...harshitverma1996@yahoo.com
